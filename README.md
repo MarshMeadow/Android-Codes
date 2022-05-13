@@ -2,7 +2,7 @@
 This can do many things, check it out to see.
 
 Access secret codes for Android devices:
-Find information about your device:
+- Find information about your device:
 
 *#06# - Display the IMEI.
 *#*#4636#*#* - Display information about your phone, its battery and additional usage statistics.
@@ -23,7 +23,7 @@ Find information about your device:
 
 *#1234# - Display the firmware version.
 
-Troubleshoot your hardware components:
+- Troubleshoot your hardware components:
 
 *#0228# - Display the battery status.
 
@@ -43,7 +43,7 @@ Troubleshoot your hardware components:
 
 *#0588# - Test the proximity sensor. 
 
-Advanced settings:
+- Advanced settings:
 "Warning: Incorrect usage of these hidden settings and tools could cause your system to become unstable (crashes, data loss...). It's recommended that you backup your data beforehand. For example, learn how to back up your SMS messages with this guide."
 
 *2767*3855# - Factory Reset (wipe your data, custom settings, and apps). Use with caution.
