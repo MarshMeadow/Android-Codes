@@ -47,13 +47,21 @@ Access secret codes for Android devices:
 "Warning: Incorrect usage of these hidden settings and tools could cause your system to become unstable (crashes, data loss...). It's recommended that you backup your data beforehand. For example, learn how to back up your SMS messages with this guide."
 
 *2767*3855# - Factory Reset (wipe your data, custom settings, and apps). Use with caution.
+
 *2767*2878# - Refresh your device (keeps your data).
+
 *#2470# - Enable or disable camera shutter sound.
+
 **04*CPA*NP*NP# - Reset the PIN code.
+
 *#4777*8665# - Test the GPS.
+
 *#197328640# - Go to the Root Debug menu.
+
 *#78# - Go to the Admin Settings menu.
+
 *#9900# - Compile a system report.
+
 *#273283*255*663282*# - Copy data from SD card to internal memory.
 ----
 Info From: https://ccm.net/mobile/android/917-secret-codes-for-android/#:~:text=*2767*3855%23%20%2D%20Factory,device%20(keeps%20your%20data).
