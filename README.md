@@ -5,6 +5,7 @@ Access secret codes for Android devices:
 - Find information about your device:
 
 *#06# - Display the IMEI.
+
 *#*#4636#*#* - Display information about your phone, its battery and additional usage statistics.
 
 *#232337# - Display the MAC address of your Bluetooth radio.
