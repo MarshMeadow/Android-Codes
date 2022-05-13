@@ -63,5 +63,6 @@ Access secret codes for Android devices:
 *#9900# - Compile a system report.
 
 *#273283*255*663282*# - Copy data from SD card to internal memory.
+
 ----
 Info From: https://ccm.net/mobile/android/917-secret-codes-for-android/#:~:text=*2767*3855%23%20%2D%20Factory,device%20(keeps%20your%20data).
