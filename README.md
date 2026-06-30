@@ -1,69 +1,129 @@
-# Android-Codes
-This can do many things, check it out to see.
+# Android Secret Codes
 
-Access secret codes for Android devices:
-- Find information about your device:
+A comprehensive collection of Android secret codes (dialer codes) for accessing hidden menus, device information, and diagnostic tools.
 
-*#06# - Display the IMEI.
+## ⚠️ Important Warning
 
-*#*#4636#*#* - Display information about your phone, its battery and additional usage statistics.
+**Incorrect usage of these hidden settings and tools could cause your system to become unstable (crashes, data loss, etc.).**
 
-*#232337# - Display the MAC address of your Bluetooth radio.
+**It's recommended that you backup your data beforehand.** For example, learn how to back up your SMS messages before using advanced codes.
 
-*#232338# - Display the MAC address of your WLAN adapter.
+---
 
-*#*#8255 #*#* - Display the GTalk service.
+## Table of Contents
 
-*#7465625# - Check the status of the network lock and/or SIMLOCK .
+- [Device Information](#device-information)
+- [Hardware Troubleshooting](#hardware-troubleshooting)
+- [Advanced Settings](#advanced-settings)
+- [How to Use These Codes](#how-to-use-these-codes)
 
-*#*#4636#*#* - Display general information about your device.
+---
 
-*#34971539# - Display information about your camera sensor.
+## Device Information
 
-*#2663# - Display information about your screen.
+These codes display information about your Android device, network, and hardware.
 
-*#1234# - Display the firmware version.
+| Code | Description |
+|------|-------------|
+| `*#06#` | Display the IMEI (International Mobile Equipment Identity) number |
+| `*#*#4636#*#*` | Display phone information, battery status, and usage statistics |
+| `*#232337#` | Display the MAC address of your Bluetooth radio |
+| `*#232338#` | Display the MAC address of your WLAN (Wi-Fi) adapter |
+| `*#*#8255#*#*` | Display the GTalk service monitor |
+| `*#7465625#` | Check the status of network lock and/or SIM lock |
+| `*#*#4636#*#*` | Display general information about your device |
+| `*#34971539#` | Display information about your camera sensor |
+| `*#2663#` | Display information about your screen/display |
+| `*#1234#` | Display the firmware version |
 
-- Troubleshoot your hardware components:
+---
 
-*#0228# - Display the battery status.
+## Hardware Troubleshooting
 
-*#0289# - Run audio test.
+These codes help test and troubleshoot various hardware components of your device.
 
-*#0782# - Set date and time.
+| Code | Description |
+|------|-------------|
+| `*#0228#` | Display the battery status and health |
+| `*#0289#` | Run audio test |
+| `*#0782#` | Set date and time |
+| `*#0842#` | Test the vibration motor |
+| `*#0673#` | Run audio test (MP3 playback) |
+| `*#0*#` | Test speakers and/or screen |
+| `*#*#2664#*#*` | Test the touch screen |
+| `*#0283#` | Test the microphone |
+| `*#0588#` | Test the proximity sensor |
 
-*#0842# - Test the vibration motor.
+---
 
-*#0673# - Run audio test (MP3).
+## Advanced Settings
 
-*#0*# = - Test speakers or/and screen.
+⚠️ **Use these codes with extreme caution.** They can modify critical system settings.
 
-*#*#2664 #*#* - Test the touch screen.
+| Code | Description | Risk Level |
+|------|-------------|------------|
+| `*2767*3855#` | Factory Reset - Wipes all data, custom settings, and apps | 🔴 **High** |
+| `*2767*2878#` | Device Refresh - Keeps your data but resets settings | 🟡 **Medium** |
+| `*#2470#` | Enable or disable camera shutter sound | 🟢 **Low** |
+| `**04*CPA*NP*NP#` | Reset the PIN code | 🟡 **Medium** |
+| `*#4777*8665#` | Test the GPS | 🟢 **Low** |
+| `*#197328640#` | Go to the Root Debug menu | 🔴 **High** |
+| `*#78#` | Go to the Admin Settings menu | 🟡 **Medium** |
+| `*#9900#` | Compile a system report | 🟢 **Low** |
+| `*#273283*255*663282*#` | Copy data from SD card to internal memory | 🟡 **Medium** |
 
-*#0283# - Test the microphone.
+### Risk Level Legend
+- 🟢 **Low** - Safe to use, minimal risk
+- 🟡 **Medium** - Use with caution, may affect settings
+- 🔴 **High** - Can cause data loss or system instability
 
-*#0588# - Test the proximity sensor. 
+---
 
-- Advanced settings:
-"Warning: Incorrect usage of these hidden settings and tools could cause your system to become unstable (crashes, data loss...). It's recommended that you backup your data beforehand. For example, learn how to back up your SMS messages with this guide."
+## How to Use These Codes
 
-*2767*3855# - Factory Reset (wipe your data, custom settings, and apps). Use with caution.
+1. **Open your Phone/Dialer app**
+2. **Type the code exactly as shown** (including asterisks and hashes)
+3. **Press the call button**
+4. **The corresponding menu or information will appear**
 
-*2767*2878# - Refresh your device (keeps your data).
+### Notes:
+- Not all codes work on all devices (manufacturer and Android version dependent)
+- Some codes may require root access
+- Samsung devices typically support the most codes
+- If a code doesn't work, it may not be supported by your device
 
-*#2470# - Enable or disable camera shutter sound.
+---
 
-**04*CPA*NP*NP# - Reset the PIN code.
+## Device Compatibility
 
-*#4777*8665# - Test the GPS.
+These codes work best on:
+- **Samsung devices** - Most codes supported
+- **LG devices** - Many codes supported
+- **HTC devices** - Some codes supported
+- **Other manufacturers** - Limited support
 
-*#197328640# - Go to the Root Debug menu.
+---
 
-*#78# - Go to the Admin Settings menu.
+## Additional Resources
 
-*#9900# - Compile a system report.
+- [Original Source](https://ccm.net/mobile/android/917-secret-codes-for-android/)
+- [Android Documentation](https://developer.android.com)
+- [XDA Developers Forums](https://forum.xda-developers.com)
 
-*#273283*255*663282*# - Copy data from SD card to internal memory.
+---
 
-----
-[Info From](https://ccm.net/mobile/android/917-secret-codes-for-android/#:~:text=*2767*3855%23%20%2D%20Factory,device%20(keeps%20your%20data).)
+## Disclaimer
+
+This list is provided for informational purposes only. Use these codes at your own risk. The creators of this list are not responsible for any data loss, device damage, or other issues that may result from using these codes.
+
+---
+
+## Contributing
+
+If you know of additional Android secret codes that should be added to this list, please feel free to contribute.
+
+---
+
+## License
+
+This README is part of Neko's Index project.
